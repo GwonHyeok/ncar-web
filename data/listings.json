@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T02:45:17.120Z",
+    "generated_at": "2026-07-13T03:37:49.921Z",
     "count": 350,
     "trims": [
       "4 크로스 투리스모",
@@ -39,7 +39,7 @@
       "판매중"
     ],
     "price_range": [
-      210,
+      4200,
       25500
     ]
   },
@@ -397,7 +397,7 @@
       "trim": "4S",
       "year": null,
       "mileage_km": null,
-      "price_manwon": null,
+      "price_manwon": 9300,
       "color_ext": "",
       "color_int": "",
       "region": "대구",
@@ -418,7 +418,13 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-07-13",
+          "price": 9300,
+          "source": "porampe"
+        }
+      ]
     },
     {
       "plate": "37너5917",
@@ -426,7 +432,7 @@
       "trim": "4S",
       "year": null,
       "mileage_km": 76,
-      "price_manwon": null,
+      "price_manwon": 8990,
       "color_ext": "",
       "color_int": "",
       "region": "전남",
@@ -452,7 +458,13 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-07-13",
+          "price": 8990,
+          "source": "porampe"
+        }
+      ]
     },
     {
       "plate": "06서2219",
@@ -460,7 +472,7 @@
       "trim": "4S",
       "year": 2025,
       "mileage_km": 9827,
-      "price_manwon": null,
+      "price_manwon": 17400,
       "color_ext": "",
       "color_int": "",
       "region": "서울",
@@ -483,7 +495,13 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-07-13",
+          "price": 17400,
+          "source": "porampe"
+        }
+      ]
     },
     {
       "plate": "63서6662",
@@ -491,7 +509,7 @@
       "trim": "기본",
       "year": 2025,
       "mileage_km": null,
-      "price_manwon": null,
+      "price_manwon": 14009,
       "color_ext": "",
       "color_int": "",
       "region": "",
@@ -512,7 +530,13 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-07-13",
+          "price": 14009,
+          "source": "porampe"
+        }
+      ]
     },
     {
       "plate": "",
@@ -520,7 +544,7 @@
       "trim": "4S",
       "year": 2021,
       "mileage_km": null,
-      "price_manwon": null,
+      "price_manwon": 10300,
       "color_ext": "",
       "color_int": "",
       "region": "울산",
@@ -541,7 +565,13 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-07-13",
+          "price": 10300,
+          "source": "porampe"
+        }
+      ]
     },
     {
       "plate": "26주1076",
@@ -614,7 +644,7 @@
       "trim": "GTS",
       "year": null,
       "mileage_km": 19000,
-      "price_manwon": null,
+      "price_manwon": 12500,
       "color_ext": "",
       "color_int": "",
       "region": "",
@@ -635,7 +665,13 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-07-13",
+          "price": 12500,
+          "source": "porampe"
+        }
+      ]
     },
     {
       "plate": "21너2856",
@@ -643,7 +679,7 @@
       "trim": "GTS",
       "year": 2024,
       "mileage_km": null,
-      "price_manwon": null,
+      "price_manwon": 13200,
       "color_ext": "",
       "color_int": "",
       "region": "충남",
@@ -666,7 +702,13 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-07-13",
+          "price": 13200,
+          "source": "porampe"
+        }
+      ]
     },
     {
       "plate": "",
@@ -674,7 +716,7 @@
       "trim": "4S",
       "year": null,
       "mileage_km": null,
-      "price_manwon": null,
+      "price_manwon": 9300,
       "color_ext": "",
       "color_int": "",
       "region": "대구",
@@ -695,7 +737,13 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-07-13",
+          "price": 9300,
+          "source": "porampe"
+        }
+      ]
     },
     {
       "plate": "43모9593",
@@ -703,7 +751,7 @@
       "trim": "4S",
       "year": 2021,
       "mileage_km": null,
-      "price_manwon": null,
+      "price_manwon": 9500,
       "color_ext": "",
       "color_int": "",
       "region": "",
@@ -726,7 +774,13 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-07-13",
+          "price": 9500,
+          "source": "porampe"
+        }
+      ]
     },
     {
       "plate": "",
@@ -948,7 +1002,7 @@
       "trim": "GTS",
       "year": 2025,
       "mileage_km": null,
-      "price_manwon": null,
+      "price_manwon": 18500,
       "color_ext": "",
       "color_int": "",
       "region": "",
@@ -971,7 +1025,13 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-07-13",
+          "price": 18500,
+          "source": "porampe"
+        }
+      ]
     },
     {
       "plate": "63가6378",
@@ -1391,7 +1451,7 @@
       "trim": "4S",
       "year": 2026,
       "mileage_km": 1344,
-      "price_manwon": 210,
+      "price_manwon": null,
       "color_ext": "검정색",
       "color_int": "",
       "region": "경기",
@@ -1491,7 +1551,7 @@
       "trim": "GTS",
       "year": 2025,
       "mileage_km": null,
-      "price_manwon": null,
+      "price_manwon": 19000,
       "color_ext": "",
       "color_int": "",
       "region": "",
@@ -1514,7 +1574,13 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [
+        {
+          "date": "2026-07-13",
+          "price": 19000,
+          "source": "porampe"
+        }
+      ]
     },
     {
       "plate": "06더0013",
@@ -1522,7 +1588,7 @@
       "trim": "GTS",
       "year": 2022,
       "mileage_km": 8000,
-      "price_manwon": 590,
+      "price_manwon": null,
       "color_ext": "",
       "color_int": "",
       "region": "서울",
@@ -1559,7 +1625,7 @@
       "trim": "터보",
       "year": 2021,
       "mileage_km": 95839,
-      "price_manwon": 1297,
+      "price_manwon": null,
       "color_ext": "흰색",
       "color_int": "",
       "region": "인천",
@@ -1604,7 +1670,7 @@
       "trim": "기본",
       "year": 2025,
       "mileage_km": 15500,
-      "price_manwon": 1432,
+      "price_manwon": 14308,
       "color_ext": "검정색",
       "color_int": "",
       "region": "대전",
@@ -1647,6 +1713,11 @@
           "date": "2026-07-13",
           "price": 1432,
           "source": "encar"
+        },
+        {
+          "date": "2026-07-13",
+          "price": 14308,
+          "source": "porampe"
         }
       ]
     },
@@ -1656,7 +1727,7 @@
       "trim": "GTS",
       "year": 2022,
       "mileage_km": null,
-      "price_manwon": 1499,
+      "price_manwon": null,
       "color_ext": "",
       "color_int": "",
       "region": "울산",
@@ -1693,7 +1764,7 @@
       "trim": "4S",
       "year": 2026,
       "mileage_km": 2000,
-      "price_manwon": 2400,
+      "price_manwon": null,
       "color_ext": "",
       "color_int": "",
       "region": "경기",
@@ -1730,7 +1801,7 @@
       "trim": "기본",
       "year": 2026,
       "mileage_km": null,
-      "price_manwon": 3500,
+      "price_manwon": 17465,
       "color_ext": "",
       "color_int": "",
       "region": "경기",
@@ -1755,6 +1826,11 @@
         {
           "date": "2026-07-12",
           "price": 3500,
+          "source": "porampe"
+        },
+        {
+          "date": "2026-07-13",
+          "price": 17465,
           "source": "porampe"
         }
       ]

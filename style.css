@@ -34,6 +34,8 @@ main { padding: 20px 24px 60px; max-width: 1400px; margin: 0 auto; }
 .card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; overflow: hidden;
   cursor: pointer; transition: border-color .15s, transform .15s; }
 .card:hover { border-color: var(--accent2); transform: translateY(-2px); }
+.card.sold { opacity: .55; }
+.card.sold:hover { opacity: 1; }
 .thumb { aspect-ratio: 16/10; background: var(--panel2) center/cover no-repeat; position: relative; }
 .thumb .noimg { position: absolute; inset: 0; display: grid; place-items: center; color: var(--gone); font-size: 12px; }
 .badges { position: absolute; top: 8px; left: 8px; display: flex; gap: 5px; flex-wrap: wrap; }

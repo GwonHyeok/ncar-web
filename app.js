@@ -54,16 +54,28 @@ function renderListings() {
     }
     return true;
   });
+  const sold = (l) => /완료/.test(l.status || '');
+  const noPrice = (l) => l.price_manwon == null;
   const cmp = {
     price_asc: (a, b) => (a.price_manwon ?? 9e9) - (b.price_manwon ?? 9e9),
     price_desc: (a, b) => (b.price_manwon ?? -1) - (a.price_manwon ?? -1),
     mileage_asc: (a, b) => (a.mileage_km ?? 9e9) - (b.mileage_km ?? 9e9),
     year_desc: (a, b) => (b.year ?? 0) - (a.year ?? 0),
-    last_seen: (a, b) => String(b.last_seen).localeCompare(String(a.last_seen)),
+    // 최근 관측순: 판매완료·가격미확보는 뒤로 보내 첫 화면이 비어보이지 않게 한다.
+    last_seen: (a, b) =>
+      (sold(a) - sold(b)) ||
+      (noPrice(a) - noPrice(b)) ||
+      String(b.last_seen).localeCompare(String(a.last_seen)) ||
+      (a.price_manwon ?? 9e9) - (b.price_manwon ?? 9e9),
   }[f.sort];
   rows.sort(cmp);
 
-  $('#count').textContent = `${rows.length}건`;
+  const nSold = rows.filter(sold).length;
+  const nActive = rows.length - nSold;
+  $('#count').innerHTML = `총 <b>${rows.length}</b>건`
+    + ` · <span style="color:var(--ok)">판매중 ${nActive}</span>`
+    + (nSold ? ` · <span style="color:var(--gone)">판매완료 ${nSold}</span>` : '')
+    + ` · 가격확보 ${rows.filter((l) => !noPrice(l)).length}`;
   const grid = $('#grid');
   if (!rows.length) { grid.innerHTML = '<div class="empty">조건에 맞는 매물이 없습니다.</div>'; return; }
   grid.innerHTML = rows.map((l) => card(l, DATA.listings.indexOf(l))).join('');
@@ -76,7 +88,8 @@ function card(l, idx) {
   const thumb = (l.thumbnail && thumbUrl !== '#')
     ? `<div class="thumb" style="background-image:url(&quot;${thumbUrl}&quot;)">`
     : `<div class="thumb"><span class="noimg">사진 없음</span>`;
-  return `<div class="card" data-i="${idx}">
+  const soldCls = /완료/.test(l.status || '') ? ' sold' : '';
+  return `<div class="card${soldCls}" data-i="${idx}">
     ${thumb}
       <div class="badges">
         ${l.sources.map((s) => `<span class="badge src">${esc(s)}</span>`).join('')}
