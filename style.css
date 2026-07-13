@@ -51,6 +51,11 @@ main { padding: 20px 24px 60px; max-width: 1400px; margin: 0 auto; }
 .status.판매중 { background: rgba(46,204,113,.15); color: var(--ok); }
 .status.예약 { background: rgba(230,184,0,.15); color: var(--warn); }
 .status[class*="완료"] { background: rgba(122,127,138,.2); color: var(--gone); }
+.deal { display: flex; align-items: center; gap: 8px; margin-top: 6px; flex-wrap: wrap; }
+.dealtag { font-size: 11px; padding: 2px 8px; border-radius: 6px; font-weight: 600; }
+.dealtag.cash { background: rgba(46,204,113,.15); color: var(--ok); }
+.dealtag.lease { background: rgba(200,164,92,.18); color: var(--accent2); }
+.monthly { font-size: 12px; color: var(--accent2); font-weight: 600; }
 .spec { display: flex; gap: 10px; color: var(--muted); font-size: 12px; margin-top: 8px; flex-wrap: wrap; }
 
 .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; }

@@ -5,6 +5,17 @@ const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
 const won = (m) => (m == null ? '-' : m >= 10000 ? `${(m / 10000).toFixed(m % 10000 ? 1 : 0)}억` : `${m.toLocaleString()}만`);
 const km = (v) => (v == null ? '-' : `${v.toLocaleString()}km`);
+// 구매형태 칩(현금=cash, 리스/렌트=lease) + 리스 월납/잔여개월
+const dealChip = (l) => {
+  if (!l.deal_type && l.lease_monthly == null) return '';
+  const isCash = l.deal_type === '현금';
+  const cls = isCash ? 'cash' : 'lease';
+  const tag = l.deal_type ? `<span class="dealtag ${cls}">${esc(l.deal_type)}</span>` : '';
+  const mo = l.lease_monthly != null
+    ? `<span class="monthly">월 ${l.lease_monthly.toLocaleString()}만${l.lease_months ? ` · ${l.lease_months}개월` : ''}</span>`
+    : '';
+  return `<div class="deal">${tag}${mo}</div>`;
+};
 const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 // http(s) URL만 허용(javascript:/data: 등 스킴 차단). 안전하면 이스케이프한 URL, 아니면 '#'.
 const safeUrl = (u) => { try { const x = new URL(u, location.href); return /^https?:$/.test(x.protocol) ? esc(x.href) : '#'; } catch { return '#'; } };
@@ -23,6 +34,7 @@ async function load() {
   fillSelect('#f-trim', m.trims);
   fillSelect('#f-source', m.sources);
   fillSelect('#f-status', m.statuses);
+  fillSelect('#f-deal', m.deal_types);
   fillSelect('#o-trim', [...new Set((DATA.options || []).map((o) => o.trim).filter(Boolean))].sort());
   renderListings();
   renderOptions();
@@ -37,6 +49,7 @@ function currentFilter() {
   return {
     q: $('#q').value.trim().toLowerCase(),
     trim: $('#f-trim').value, source: $('#f-source').value, status: $('#f-status').value,
+    deal: $('#f-deal').value,
     sort: $('#f-sort').value, active: $('#f-active').checked,
   };
 }
@@ -47,6 +60,7 @@ function renderListings() {
     if (f.trim && l.trim !== f.trim) return false;
     if (f.source && !l.sources.includes(f.source)) return false;
     if (f.status && l.status !== f.status) return false;
+    if (f.deal && l.deal_type !== f.deal) return false;
     if (f.active && l.status && l.status !== '판매중') return false;
     if (f.q) {
       const hay = [l.trim, l.color_ext, l.color_int, l.region, l.options_text, l.plate, l.sources.join(' ')].join(' ').toLowerCase();
@@ -101,6 +115,7 @@ function card(l, idx) {
       <div class="card-title">타이칸 ${esc(l.trim || '')}</div>
       <div class="card-sub">${l.year || '-'}년 · ${esc(l.color_ext || '-')} · ${esc(l.region || '-')}</div>
       <div class="price">${won(l.price_manwon)}<small> · ${km(l.mileage_km)}</small></div>
+      ${dealChip(l)}
       <div class="spec">${l.plate ? `🚗 ${esc(l.plate)}` : '<span style="color:var(--warn)">번호판 미확보</span>'} · ${esc(l.seller_type || '')}</div>
     </div>
   </div>`;
@@ -118,6 +133,7 @@ function openModal(idx) {
       <dt>차량번호</dt><dd>${esc(l.plate || '미확보')}</dd>
       <dt>외장/실내</dt><dd>${esc(l.color_ext || '-')} / ${esc(l.color_int || '-')}</dd>
       <dt>판매유형</dt><dd>${esc(l.seller_type || '-')}</dd>
+      <dt>구매형태</dt><dd>${esc(l.deal_type || '-')}${l.lease_monthly != null ? ` · 월 ${l.lease_monthly.toLocaleString()}만원${l.lease_months ? ` · 잔여 ${l.lease_months}개월` : ''}` : ''}</dd>
       <dt>상태</dt><dd>${esc(l.status || '-')}</dd>
       <dt>최초/최근</dt><dd>${esc(l.first_seen || '-')} ~ ${esc(l.last_seen || '-')}</dd>
       <dt>가격이력</dt><dd>${(l.price_history || []).map((h) => `${h.date} ${won(h.price)}`).join(' → ') || '-'}</dd>
@@ -147,7 +163,7 @@ function renderOptions() {
 }
 
 // 이벤트 바인딩
-['#q', '#f-trim', '#f-source', '#f-status', '#f-sort', '#f-active'].forEach((s) =>
+['#q', '#f-trim', '#f-source', '#f-status', '#f-deal', '#f-sort', '#f-active'].forEach((s) =>
   document.addEventListener('input', (e) => { if (e.target.closest(s)) renderListings(); }));
 ['#oq', '#o-trim'].forEach((s) =>
   document.addEventListener('input', (e) => { if (e.target.closest(s)) renderOptions(); }));

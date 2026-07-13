@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T03:37:49.921Z",
+    "generated_at": "2026-07-13T03:52:45.474Z",
     "count": 350,
     "trims": [
       "4 크로스 투리스모",
@@ -37,6 +37,12 @@
     "statuses": [
       "판매완료",
       "판매중"
+    ],
+    "deal_types": [
+      "금융리스",
+      "리스",
+      "운용리스",
+      "현금"
     ],
     "price_range": [
       4200,
@@ -75,7 +81,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -106,7 +115,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -137,7 +149,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -168,7 +183,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "리스",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -199,7 +217,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "리스",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -230,7 +251,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "50나1234",
@@ -261,7 +285,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -294,7 +321,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "14버0468",
@@ -325,7 +355,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -356,7 +389,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -389,7 +425,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -424,7 +463,10 @@
           "price": 9300,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "37너5917",
@@ -464,7 +506,10 @@
           "price": 8990,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "06서2219",
@@ -501,7 +546,10 @@
           "price": 17400,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "63서6662",
@@ -536,7 +584,10 @@
           "price": 14009,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "리스",
+      "lease_monthly": 165,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -571,7 +622,10 @@
           "price": 10300,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "26주1076",
@@ -605,7 +659,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -636,7 +693,10 @@
       "status": "판매완료",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -671,7 +731,10 @@
           "price": 12500,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "21너2856",
@@ -708,7 +771,10 @@
           "price": 13200,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -743,7 +809,10 @@
           "price": 9300,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "43모9593",
@@ -780,7 +849,10 @@
           "price": 9500,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -811,7 +883,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "33조8525",
@@ -842,7 +917,10 @@
       "status": "판매완료",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -871,7 +949,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "35부2563",
@@ -905,7 +986,10 @@
       "status": "판매완료",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "358나1245",
@@ -934,7 +1018,10 @@
       "status": "판매완료",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -963,7 +1050,10 @@
       "status": "판매완료",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -994,7 +1084,10 @@
       "status": "판매완료",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "운용리스",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "310을7484",
@@ -1031,7 +1124,10 @@
           "price": 18500,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "63가6378",
@@ -1062,7 +1158,10 @@
       "status": "판매완료",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "58고2025",
@@ -1093,7 +1192,10 @@
       "status": "판매완료",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "06루2633",
@@ -1124,7 +1226,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "11러9109",
@@ -1153,7 +1258,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "12러8792",
@@ -1184,7 +1292,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -1215,7 +1326,10 @@
       "status": "판매완료",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "26다2957",
@@ -1248,7 +1362,10 @@
       "status": "판매중",
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "37가0001",
@@ -1279,7 +1396,10 @@
       "status": "판매중",
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "23허8962",
@@ -1312,7 +1432,10 @@
       "status": "판매중",
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "26너2957",
@@ -1382,7 +1505,10 @@
           "price": 14490,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "48조7292",
@@ -1416,7 +1542,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "운용리스",
+      "lease_monthly": 193,
+      "lease_months": 24
     },
     {
       "plate": "",
@@ -1443,7 +1572,10 @@
       "status": "판매중",
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "349우4773",
@@ -1481,7 +1613,10 @@
           "price": 210,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "58대7576",
@@ -1512,7 +1647,10 @@
       "status": "판매중",
       "first_seen": "2026-07-13",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "11나5349",
@@ -1543,7 +1681,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-13",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "310루7484",
@@ -1580,7 +1721,10 @@
           "price": 19000,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "06더0013",
@@ -1617,7 +1761,10 @@
           "price": 590,
           "source": "bobaedream"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "08더9032",
@@ -1662,7 +1809,10 @@
           "price": 1297,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 369,
+      "lease_months": 3
     },
     {
       "plate": "26너9411",
@@ -1719,7 +1869,10 @@
           "price": 14308,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 224,
+      "lease_months": 43
     },
     {
       "plate": "",
@@ -1756,7 +1909,10 @@
           "price": 1499,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": null,
+      "lease_months": 28
     },
     {
       "plate": "",
@@ -1793,7 +1949,10 @@
           "price": 2400,
           "source": "bobaedream"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -1833,7 +1992,10 @@
           "price": 17465,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "리스",
+      "lease_monthly": 186,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -1870,7 +2032,10 @@
           "price": 4200,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "46가8300",
@@ -1912,7 +2077,10 @@
           "price": 5900,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "46다4816",
@@ -1949,7 +2117,10 @@
           "price": 6500,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "19러6208",
@@ -2001,7 +2172,10 @@
           "price": 7200,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 96,
+      "lease_months": 31
     },
     {
       "plate": "04로6177",
@@ -2046,7 +2220,10 @@
           "price": 7550,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "62두1919",
@@ -2091,7 +2268,10 @@
           "price": 7733,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 209,
+      "lease_months": 35
     },
     {
       "plate": "",
@@ -2128,7 +2308,10 @@
           "price": 7900,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "53누2205",
@@ -2175,7 +2358,10 @@
           "price": 7990,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "33나7904",
@@ -2212,7 +2398,10 @@
           "price": 7990,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "395노2696",
@@ -2257,7 +2446,10 @@
           "price": 8081,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 281,
+      "lease_months": 42
     },
     {
       "plate": "36버5568",
@@ -2304,7 +2496,10 @@
           "price": 8200,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "58서8920",
@@ -2352,7 +2547,10 @@
           "price": 8190,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -2389,7 +2587,10 @@
           "price": 8300,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "31라2286",
@@ -2434,7 +2635,10 @@
           "price": 8350,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "31나2286",
@@ -2471,7 +2675,10 @@
           "price": 8350,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "07버6192",
@@ -2544,7 +2751,10 @@
           "price": 8700,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "21고3576",
@@ -2589,7 +2799,10 @@
           "price": 8580,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "15도2224",
@@ -2634,7 +2847,10 @@
           "price": 8600,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "50서3339",
@@ -2689,7 +2905,10 @@
           "price": 8690,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "35어0455",
@@ -2734,7 +2953,10 @@
           "price": 8700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "29하2655",
@@ -2779,7 +3001,10 @@
           "price": 8700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "26러3224",
@@ -2824,7 +3049,10 @@
           "price": 8700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "67소6645",
@@ -2861,7 +3089,10 @@
           "price": 8750,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "52거2515",
@@ -2906,7 +3137,10 @@
           "price": 8750,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "03무4071",
@@ -2951,7 +3185,10 @@
           "price": 8787,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 190,
+      "lease_months": 40
     },
     {
       "plate": "",
@@ -2992,7 +3229,10 @@
           "price": 8800,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "47러1260",
@@ -3037,7 +3277,10 @@
           "price": 8800,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "36부4123",
@@ -3084,7 +3327,10 @@
           "price": 8900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "08나4123",
@@ -3121,7 +3367,10 @@
           "price": 8900,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "231수7415",
@@ -3161,7 +3410,10 @@
           "price": 8979,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 231,
+      "lease_months": 19
     },
     {
       "plate": "36버7393",
@@ -3206,7 +3458,10 @@
           "price": 8990,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 238,
+      "lease_months": 36
     },
     {
       "plate": "01나1239",
@@ -3247,7 +3502,10 @@
           "price": 9000,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "32너1747",
@@ -3292,7 +3550,10 @@
           "price": 9200,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "32로2998",
@@ -3337,7 +3598,10 @@
           "price": 9250,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -3379,7 +3643,10 @@
           "price": 9290,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "24수8070",
@@ -3424,7 +3691,10 @@
           "price": 9290,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "26대3141",
@@ -3461,7 +3731,10 @@
           "price": 9290,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -3498,7 +3771,10 @@
           "price": 9300,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "61나3307",
@@ -3543,7 +3819,10 @@
           "price": 9300,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 133,
+      "lease_months": 6
     },
     {
       "plate": "47러1118",
@@ -3588,7 +3867,10 @@
           "price": 9300,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 205,
+      "lease_months": 50
     },
     {
       "plate": "273구6641",
@@ -3635,7 +3917,10 @@
           "price": 9499,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "19머4205",
@@ -3694,7 +3979,10 @@
           "price": 9590,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -3736,7 +4024,10 @@
           "price": 9500,
           "source": "bobaedream"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -3773,7 +4064,10 @@
           "price": 9500,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "63고7228",
@@ -3832,7 +4126,10 @@
           "price": 10500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 280,
+      "lease_months": 9
     },
     {
       "plate": "06무8100",
@@ -3879,7 +4176,10 @@
           "price": 9500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "23누0600",
@@ -3916,7 +4216,10 @@
           "price": 9500,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "55대1508",
@@ -3957,7 +4260,10 @@
           "price": 9600,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "41조3842",
@@ -4004,7 +4310,10 @@
           "price": 9600,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "36머2580",
@@ -4049,7 +4358,10 @@
           "price": 9720,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 247,
+      "lease_months": 26
     },
     {
       "plate": "57부1101",
@@ -4094,7 +4406,10 @@
           "price": 9725,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 204,
+      "lease_months": 40
     },
     {
       "plate": "63서3881",
@@ -4141,7 +4456,10 @@
           "price": 9790,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "01버6618",
@@ -4186,7 +4504,10 @@
           "price": 9850,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "59오6070",
@@ -4231,7 +4552,10 @@
           "price": 9868,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 228,
+      "lease_months": 22
     },
     {
       "plate": "36부3396",
@@ -4276,7 +4600,10 @@
           "price": 9900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 240,
+      "lease_months": 4
     },
     {
       "plate": "263거4862",
@@ -4321,7 +4648,10 @@
           "price": 9900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "48마1677",
@@ -4368,7 +4698,10 @@
           "price": 9900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "24호5754",
@@ -4413,7 +4746,10 @@
           "price": 9900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "06무8695",
@@ -4458,7 +4794,10 @@
           "price": 9900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "34저4890",
@@ -4503,7 +4842,10 @@
           "price": 9900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "48버1677",
@@ -4545,7 +4887,10 @@
           "price": 9900,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "09루6016",
@@ -4582,7 +4927,10 @@
           "price": 10000,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "48조7817",
@@ -4627,7 +4975,10 @@
           "price": 10000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 239,
+      "lease_months": 25
     },
     {
       "plate": "26도5121",
@@ -4667,7 +5018,10 @@
           "price": 10000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "26너3009",
@@ -4714,7 +5068,10 @@
           "price": 10030,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "54서1217",
@@ -4759,7 +5116,10 @@
           "price": 10160,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 192,
+      "lease_months": 56
     },
     {
       "plate": "41고9069",
@@ -4806,7 +5166,10 @@
           "price": 10190,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "14로0817",
@@ -4853,7 +5216,10 @@
           "price": 10199,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "14너0817",
@@ -4895,7 +5261,10 @@
           "price": 10199,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -4932,7 +5301,10 @@
           "price": 10200,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "53누3083",
@@ -4977,7 +5349,10 @@
           "price": 10200,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -5014,7 +5389,10 @@
           "price": 10300,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "05오6419",
@@ -5049,7 +5427,10 @@
           "price": 10300,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "35어0523",
@@ -5096,7 +5477,10 @@
           "price": 10300,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "37보5551",
@@ -5141,7 +5525,10 @@
           "price": 10300,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 258,
+      "lease_months": 26
     },
     {
       "plate": "63조1449",
@@ -5188,7 +5575,10 @@
           "price": 10355,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "23두0559",
@@ -5235,7 +5625,10 @@
           "price": 10430,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "23두0715",
@@ -5272,7 +5665,10 @@
           "price": 10500,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "06가1891",
@@ -5317,7 +5713,10 @@
           "price": 10500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "08고7723",
@@ -5364,7 +5763,10 @@
           "price": 10600,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "42모4187",
@@ -5411,7 +5813,10 @@
           "price": 10600,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "42나4187",
@@ -5448,7 +5853,10 @@
           "price": 10600,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "27머3722",
@@ -5495,7 +5903,10 @@
           "price": 10650,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "23누0559",
@@ -5532,7 +5943,10 @@
           "price": 10690,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "50거3531",
@@ -5577,7 +5991,10 @@
           "price": 10690,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "50나3551",
@@ -5619,7 +6036,10 @@
           "price": 10690,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "06소7063",
@@ -5666,7 +6086,10 @@
           "price": 10700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "50보4274",
@@ -5711,7 +6134,10 @@
           "price": 10700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "01머9656",
@@ -5756,7 +6182,10 @@
           "price": 10700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "66고7766",
@@ -5801,7 +6230,10 @@
           "price": 10700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "48조7416",
@@ -5846,7 +6278,10 @@
           "price": 10700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 119,
+      "lease_months": 44
     },
     {
       "plate": "",
@@ -5883,7 +6318,10 @@
           "price": 10700,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "01나9656",
@@ -5920,7 +6358,10 @@
           "price": 10700,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "08가3100",
@@ -5965,7 +6406,10 @@
           "price": 10763,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 258,
+      "lease_months": 57
     },
     {
       "plate": "53수5426",
@@ -6014,7 +6458,10 @@
           "price": 10850,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": null,
+      "lease_months": 30
     },
     {
       "plate": "41주8095",
@@ -6059,7 +6506,10 @@
           "price": 10850,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "18부2243",
@@ -6106,7 +6556,10 @@
           "price": 10890,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "237무2364",
@@ -6151,7 +6604,10 @@
           "price": 10900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 242,
+      "lease_months": 22
     },
     {
       "plate": "30소7525",
@@ -6196,7 +6652,10 @@
           "price": 10900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "85대2243",
@@ -6233,7 +6692,10 @@
           "price": 10990,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "08러7222",
@@ -6278,7 +6740,10 @@
           "price": 10990,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -6315,7 +6780,10 @@
           "price": 10999,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "37루6666",
@@ -6362,7 +6830,10 @@
           "price": 10999,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "36로3366",
@@ -6407,7 +6878,10 @@
           "price": 11100,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "67루2019",
@@ -6452,7 +6926,10 @@
           "price": 11100,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": null,
+      "lease_months": 30
     },
     {
       "plate": "11가5349",
@@ -6497,7 +6974,10 @@
           "price": 11155,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 186,
+      "lease_months": 29
     },
     {
       "plate": "21너2595",
@@ -6542,7 +7022,10 @@
           "price": 11200,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "33버1769",
@@ -6587,7 +7070,10 @@
           "price": 11200,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "10두1014",
@@ -6632,7 +7118,10 @@
           "price": 11300,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 203,
+      "lease_months": 48
     },
     {
       "plate": "33모5870",
@@ -6677,7 +7166,10 @@
           "price": 11380,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 205,
+      "lease_months": 55
     },
     {
       "plate": "27더6639",
@@ -6726,7 +7218,10 @@
           "price": 11458,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 164,
+      "lease_months": 43
     },
     {
       "plate": "",
@@ -6763,7 +7258,10 @@
           "price": 11500,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -6800,7 +7298,10 @@
           "price": 11500,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -6837,7 +7338,10 @@
           "price": 11500,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "10가6621",
@@ -6884,7 +7388,10 @@
           "price": 11500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "61노5264",
@@ -6921,7 +7428,10 @@
           "price": 11500,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "23노8166",
@@ -6966,7 +7476,10 @@
           "price": 11550,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 155,
+      "lease_months": 47
     },
     {
       "plate": "16버5005",
@@ -7011,7 +7524,10 @@
           "price": 11557,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 295,
+      "lease_months": 22
     },
     {
       "plate": "03나7631",
@@ -7048,7 +7564,10 @@
           "price": 11642,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "46나2427",
@@ -7095,7 +7614,10 @@
           "price": 11690,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "21너2884",
@@ -7146,7 +7668,10 @@
           "price": 11800,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 231,
+      "lease_months": 48
     },
     {
       "plate": "03너3520",
@@ -7193,7 +7718,10 @@
           "price": 11790,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "46다2407",
@@ -7230,7 +7758,10 @@
           "price": 11840,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "21나2884",
@@ -7268,7 +7799,10 @@
           "price": 11900,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "02소5230",
@@ -7313,7 +7847,10 @@
           "price": 11950,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 211,
+      "lease_months": 54
     },
     {
       "plate": "",
@@ -7350,7 +7887,10 @@
           "price": 11990,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "19수5400",
@@ -7405,7 +7945,10 @@
           "price": 12000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": null,
+      "lease_months": 35
     },
     {
       "plate": "41부4385",
@@ -7450,7 +7993,10 @@
           "price": 12200,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "66러4882",
@@ -7495,7 +8041,10 @@
           "price": 12217,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 243,
+      "lease_months": 32
     },
     {
       "plate": "19러6040",
@@ -7540,7 +8089,10 @@
           "price": 12300,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "190무7152",
@@ -7585,7 +8137,10 @@
           "price": 12300,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 260,
+      "lease_months": 42
     },
     {
       "plate": "04나7151",
@@ -7622,7 +8177,10 @@
           "price": 12300,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "52거2368",
@@ -7667,7 +8225,10 @@
           "price": 12400,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "50다1225",
@@ -7704,7 +8265,10 @@
           "price": 12450,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "03구2100",
@@ -7749,7 +8313,10 @@
           "price": 12482,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 250,
+      "lease_months": 38
     },
     {
       "plate": "",
@@ -7786,7 +8353,10 @@
           "price": 12500,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "50고1225",
@@ -7833,7 +8403,10 @@
           "price": 12500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "29가9034",
@@ -7877,7 +8450,10 @@
           "price": 12500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 138,
+      "lease_months": 47
     },
     {
       "plate": "61노7804",
@@ -7922,7 +8498,10 @@
           "price": 12500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "58다7576",
@@ -7971,7 +8550,10 @@
           "price": 12500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 314,
+      "lease_months": 17
     },
     {
       "plate": "68누3228",
@@ -8016,7 +8598,10 @@
           "price": 12500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "10로0899",
@@ -8061,7 +8646,10 @@
           "price": 12700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 382,
+      "lease_months": 22
     },
     {
       "plate": "07서6616",
@@ -8108,7 +8696,10 @@
           "price": 12750,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "07나6616",
@@ -8150,7 +8741,10 @@
           "price": 12750,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "20나1233",
@@ -8187,7 +8781,10 @@
           "price": 12790,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "66저7097",
@@ -8246,7 +8843,10 @@
           "price": 13000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "38머8242",
@@ -8293,7 +8893,10 @@
           "price": 12900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "33나2567",
@@ -8340,7 +8943,10 @@
           "price": 12900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "38허8242",
@@ -8377,7 +8983,10 @@
           "price": 12900,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "60모2878",
@@ -8424,7 +9033,10 @@
           "price": 12990,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "138서9162",
@@ -8469,7 +9081,10 @@
           "price": 13100,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "53누3283",
@@ -8514,7 +9129,10 @@
           "price": 13200,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "33어6724",
@@ -8559,7 +9177,10 @@
           "price": 13400,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 126,
+      "lease_months": 47
     },
     {
       "plate": "31수6977",
@@ -8596,7 +9217,10 @@
           "price": 13500,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "108나6779",
@@ -8633,7 +9257,10 @@
           "price": 13500,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "58다7672",
@@ -8689,7 +9316,10 @@
           "price": 13650,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "53주2710",
@@ -8734,7 +9364,10 @@
           "price": 13700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 133,
+      "lease_months": 37
     },
     {
       "plate": "26너9089",
@@ -8779,7 +9412,10 @@
           "price": 13800,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "53누3788",
@@ -8824,7 +9460,10 @@
           "price": 13812,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "02무3094",
@@ -8869,7 +9508,10 @@
           "price": 13900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 136,
+      "lease_months": 54
     },
     {
       "plate": "21너2794",
@@ -8914,7 +9556,10 @@
           "price": 13900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 59,
+      "lease_months": 43
     },
     {
       "plate": "17보8215",
@@ -8961,7 +9606,10 @@
           "price": 13950,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "29누7619",
@@ -9006,7 +9654,10 @@
           "price": 14000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "57구2406",
@@ -9060,7 +9711,10 @@
           "price": 14300,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "55너0111",
@@ -9105,7 +9759,10 @@
           "price": 14000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 408,
+      "lease_months": 19
     },
     {
       "plate": "60오2869",
@@ -9150,7 +9807,10 @@
           "price": 14137,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 219,
+      "lease_months": 46
     },
     {
       "plate": "40가5280",
@@ -9190,7 +9850,10 @@
           "price": 14200,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "06로3077",
@@ -9237,7 +9900,10 @@
           "price": 14200,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "06구1207",
@@ -9282,7 +9948,10 @@
           "price": 14200,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 239,
+      "lease_months": 48
     },
     {
       "plate": "29다6564",
@@ -9319,7 +9988,10 @@
           "price": 14200,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -9356,7 +10028,10 @@
           "price": 14300,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "60오2821",
@@ -9401,7 +10076,10 @@
           "price": 14377,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 251,
+      "lease_months": 46
     },
     {
       "plate": "03무4085",
@@ -9446,7 +10124,10 @@
           "price": 14400,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "05라3098",
@@ -9491,7 +10172,10 @@
           "price": 14500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "60오2860",
@@ -9536,7 +10220,10 @@
           "price": 14550,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "62머3438",
@@ -9573,7 +10260,10 @@
           "price": 14600,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "40다7694",
@@ -9618,7 +10308,10 @@
           "price": 14600,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "120조5359",
@@ -9665,7 +10358,10 @@
           "price": 14700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -9702,7 +10398,10 @@
           "price": 14700,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "55마6869",
@@ -9747,7 +10446,10 @@
           "price": 14800,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 115,
+      "lease_months": 17
     },
     {
       "plate": "190무7157",
@@ -9792,7 +10494,10 @@
           "price": 14817,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 179,
+      "lease_months": 42
     },
     {
       "plate": "",
@@ -9829,7 +10534,10 @@
           "price": 14900,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "16누1436",
@@ -9874,7 +10582,10 @@
           "price": 14900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "55너0215",
@@ -9919,7 +10630,10 @@
           "price": 14900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "02루0830",
@@ -9964,7 +10678,10 @@
           "price": 14949,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 56,
+      "lease_months": 43
     },
     {
       "plate": "34노3398",
@@ -10009,7 +10726,10 @@
           "price": 14990,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "19노5800",
@@ -10054,7 +10774,10 @@
           "price": 15043,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 203,
+      "lease_months": 44
     },
     {
       "plate": "192주9182",
@@ -10099,7 +10822,10 @@
           "price": 15100,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 281,
+      "lease_months": 42
     },
     {
       "plate": "24주2845",
@@ -10144,7 +10870,10 @@
           "price": 15181,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "50라0245",
@@ -10200,7 +10929,10 @@
           "price": 15490,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "16무1688",
@@ -10245,7 +10977,10 @@
           "price": 15218,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 207,
+      "lease_months": 51
     },
     {
       "plate": "40더2017",
@@ -10282,7 +11017,10 @@
           "price": 15300,
           "source": "bobaedream"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "256루2522",
@@ -10329,7 +11067,10 @@
           "price": 15300,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "238러6119",
@@ -10381,7 +11122,10 @@
           "price": 15317,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 326,
+      "lease_months": 38
     },
     {
       "plate": "23저2830",
@@ -10426,7 +11170,10 @@
           "price": 15486,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 154,
+      "lease_months": 54
     },
     {
       "plate": "55부3934",
@@ -10471,7 +11218,10 @@
           "price": 15490,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "01라8746",
@@ -10516,7 +11266,10 @@
           "price": 15500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 136,
+      "lease_months": 47
     },
     {
       "plate": "03나7414",
@@ -10553,7 +11306,10 @@
           "price": 15500,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "62부8906",
@@ -10602,7 +11358,10 @@
           "price": 15530,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 233,
+      "lease_months": 52
     },
     {
       "plate": "67마3340",
@@ -10647,7 +11406,10 @@
           "price": 15550,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 183,
+      "lease_months": 57
     },
     {
       "plate": "16누1503",
@@ -10692,7 +11454,10 @@
           "price": 15682,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 190,
+      "lease_months": 52
     },
     {
       "plate": "63고8009",
@@ -10737,7 +11502,10 @@
           "price": 15800,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "160어7828",
@@ -10782,7 +11550,10 @@
           "price": 15822,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 237,
+      "lease_months": 53
     },
     {
       "plate": "28구3692",
@@ -10827,7 +11598,10 @@
           "price": 15900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 249,
+      "lease_months": 47
     },
     {
       "plate": "60오2959",
@@ -10876,7 +11650,10 @@
           "price": 16000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 236,
+      "lease_months": 47
     },
     {
       "plate": "07서6678",
@@ -10921,7 +11698,10 @@
           "price": 16113,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 262,
+      "lease_months": 29
     },
     {
       "plate": "17나8215",
@@ -10958,7 +11738,10 @@
           "price": 16190,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "23노8016",
@@ -11003,7 +11786,10 @@
           "price": 16300,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -11040,7 +11826,10 @@
           "price": 16490,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "59도8522",
@@ -11085,7 +11874,10 @@
           "price": 16490,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "237주5078",
@@ -11130,7 +11922,10 @@
           "price": 16500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 279,
+      "lease_months": 37
     },
     {
       "plate": "55가6556",
@@ -11175,7 +11970,10 @@
           "price": 16561,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 295,
+      "lease_months": 26
     },
     {
       "plate": "66저7092",
@@ -11210,7 +12008,10 @@
           "price": 16600,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "리스",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "68누1068",
@@ -11255,7 +12056,10 @@
           "price": 16687,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 230,
+      "lease_months": 35
     },
     {
       "plate": "29누7775",
@@ -11300,7 +12104,10 @@
           "price": 16760,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 206,
+      "lease_months": 54
     },
     {
       "plate": "23다2149",
@@ -11352,7 +12159,10 @@
           "price": 17000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 30,
+      "lease_months": 47
     },
     {
       "plate": "228수1689",
@@ -11392,7 +12202,10 @@
           "price": 17051,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 238,
+      "lease_months": 51
     },
     {
       "plate": "65고2004",
@@ -11437,7 +12250,10 @@
           "price": 17200,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "04무6749",
@@ -11482,7 +12298,10 @@
           "price": 17500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "29가8878",
@@ -11527,7 +12346,10 @@
           "price": 17700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 252,
+      "lease_months": 35
     },
     {
       "plate": "01다3641",
@@ -11574,7 +12396,10 @@
           "price": 17770,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -11611,7 +12436,10 @@
           "price": 17770,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "02나7775",
@@ -11656,7 +12484,10 @@
           "price": 17992,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 298,
+      "lease_months": 57
     },
     {
       "plate": "",
@@ -11693,7 +12524,10 @@
           "price": 18000,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "17버8338",
@@ -11738,7 +12572,10 @@
           "price": 18200,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 310,
+      "lease_months": 45
     },
     {
       "plate": "56루4454",
@@ -11775,7 +12612,10 @@
           "price": 18290,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "100구7015",
@@ -11820,7 +12660,10 @@
           "price": 18389,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 286,
+      "lease_months": 45
     },
     {
       "plate": "23다8886",
@@ -11865,7 +12708,10 @@
           "price": 19000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 287,
+      "lease_months": 56
     },
     {
       "plate": "",
@@ -11907,7 +12753,10 @@
           "price": 19500,
           "source": "bobaedream"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "154도6361",
@@ -11952,7 +12801,10 @@
           "price": 19500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "25가2799",
@@ -11997,7 +12849,10 @@
           "price": 19500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": 94,
+      "lease_months": 58
     },
     {
       "plate": "58두2182",
@@ -12042,7 +12897,10 @@
           "price": 19500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "34주5488",
@@ -12089,7 +12947,10 @@
           "price": 19700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "349부4773",
@@ -12148,7 +13009,10 @@
           "price": 22281,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 210,
+      "lease_months": 56
     },
     {
       "plate": "67마2759",
@@ -12193,7 +13057,10 @@
           "price": 20002,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 320,
+      "lease_months": 55
     },
     {
       "plate": "160어7841",
@@ -12238,7 +13105,10 @@
           "price": 20500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "119가1377",
@@ -12283,7 +13153,10 @@
           "price": 20600,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "399다7184",
@@ -12328,7 +13201,10 @@
           "price": 20700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "394오2964",
@@ -12373,7 +13249,10 @@
           "price": 20700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "389러5838",
@@ -12421,7 +13300,10 @@
           "price": 20786,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 254,
+      "lease_months": 55
     },
     {
       "plate": "67마3077",
@@ -12470,7 +13352,10 @@
           "price": 21000,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "35모6769",
@@ -12515,7 +13400,10 @@
           "price": 21100,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "26가2957",
@@ -12552,7 +13440,10 @@
           "price": 21100,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "360버4512",
@@ -12597,7 +13488,10 @@
           "price": 21160,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 284,
+      "lease_months": 54
     },
     {
       "plate": "38가8989",
@@ -12642,7 +13536,10 @@
           "price": 21206,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 225,
+      "lease_months": 34
     },
     {
       "plate": "05무6688",
@@ -12687,7 +13584,10 @@
           "price": 21388,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 358,
+      "lease_months": 45
     },
     {
       "plate": "24모3131",
@@ -12732,7 +13632,10 @@
           "price": 21884,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 221,
+      "lease_months": 58
     },
     {
       "plate": "122너1357",
@@ -12777,7 +13680,10 @@
           "price": 22000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "185조3577",
@@ -12822,7 +13728,10 @@
           "price": 22000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "122너1355",
@@ -12867,7 +13776,10 @@
           "price": 22500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "27우1737",
@@ -12912,7 +13824,10 @@
           "price": 22500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "29가8882",
@@ -12957,7 +13872,10 @@
           "price": 22726,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "운용리스",
+      "lease_monthly": 267,
+      "lease_months": 36
     },
     {
       "plate": "66나2957",
@@ -12994,7 +13912,10 @@
           "price": 22800,
           "source": "bobaedream"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "67노5686",
@@ -13039,7 +13960,10 @@
           "price": 22900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -13076,7 +14000,10 @@
           "price": 23000,
           "source": "bobaedream"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "395노2609",
@@ -13121,7 +14048,10 @@
           "price": 23500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "389러5848",
@@ -13166,7 +14096,10 @@
           "price": 23500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "389러5861",
@@ -13211,7 +14144,10 @@
           "price": 24000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "01고1119",
@@ -13256,7 +14192,10 @@
           "price": 24500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "금융리스",
+      "lease_monthly": null,
+      "lease_months": 55
     },
     {
       "plate": "389러5846",
@@ -13301,7 +14240,10 @@
           "price": 24500,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "188나6854",
@@ -13343,7 +14285,10 @@
           "price": 24700,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "23더8866",
@@ -13380,7 +14325,10 @@
           "price": 24791,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "리스",
+      "lease_monthly": 291,
+      "lease_months": null
     },
     {
       "plate": "146구6844",
@@ -13425,7 +14373,10 @@
           "price": 25000,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "29너8834",
@@ -13462,7 +14413,10 @@
           "price": 25091,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "리스",
+      "lease_monthly": 291,
+      "lease_months": null
     },
     {
       "plate": "29마8894",
@@ -13499,7 +14453,10 @@
           "price": 25091,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "리스",
+      "lease_monthly": 291,
+      "lease_months": null
     },
     {
       "plate": "",
@@ -13536,7 +14493,10 @@
           "price": 25500,
           "source": "bobaedream"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "06나1002",
@@ -13569,7 +14529,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-12",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "65나1001",
@@ -13600,7 +14563,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-12",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "48다2352",
@@ -13633,7 +14599,10 @@
       "status": "판매중",
       "first_seen": "2026-07-12",
       "last_seen": "2026-07-12",
-      "price_history": []
+      "price_history": [],
+      "deal_type": "",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "46누4816",
@@ -13670,7 +14639,10 @@
           "price": 6500,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "23다1101",
@@ -13707,7 +14679,10 @@
           "price": 7900,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "53에7262",
@@ -13748,7 +14723,10 @@
           "price": 7990,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "58나8920",
@@ -13789,7 +14767,10 @@
           "price": 8300,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "31다2286",
@@ -13830,7 +14811,10 @@
           "price": 8350,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "07나4123",
@@ -13871,7 +14855,10 @@
           "price": 8900,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "43어5574",
@@ -13911,7 +14898,10 @@
           "price": 9900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "42무4187",
@@ -13948,7 +14938,10 @@
           "price": 10600,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "01버9656",
@@ -13985,7 +14978,10 @@
           "price": 10700,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "66나7786",
@@ -14022,7 +15018,10 @@
           "price": 10700,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "61목5264",
@@ -14059,7 +15058,10 @@
           "price": 11500,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "03녕7631",
@@ -14096,7 +15098,10 @@
           "price": 11642,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "26다2407",
@@ -14133,7 +15138,10 @@
           "price": 11840,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "04구7151",
@@ -14170,7 +15178,10 @@
           "price": 12300,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "50나1225",
@@ -14207,7 +15218,10 @@
           "price": 12450,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "38하8242",
@@ -14244,7 +15258,10 @@
           "price": 12900,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "00다6779",
@@ -14281,7 +15298,10 @@
           "price": 13500,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "58나7672",
@@ -14318,7 +15338,10 @@
           "price": 13650,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "29호6563",
@@ -14355,7 +15378,10 @@
           "price": 14200,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "08더3972",
@@ -14392,7 +15418,10 @@
           "price": 14490,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "48두8856",
@@ -14431,7 +15460,10 @@
           "price": 14700,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "03자2957",
@@ -14468,7 +15500,10 @@
           "price": 15500,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "26너9662",
@@ -14508,7 +15543,10 @@
           "price": 15925,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "17추8215",
@@ -14545,7 +15583,10 @@
           "price": 16190,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "16무1700",
@@ -14585,7 +15626,10 @@
           "price": 16900,
           "source": "encar"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "29나2151",
@@ -14622,7 +15666,10 @@
           "price": 17770,
           "source": "kbchachacha"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     },
     {
       "plate": "23너8866",
@@ -14659,7 +15706,10 @@
           "price": 24791,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "리스",
+      "lease_monthly": 291,
+      "lease_months": null
     },
     {
       "plate": "26너8884",
@@ -14696,7 +15746,10 @@
           "price": 25091,
           "source": "porampe"
         }
-      ]
+      ],
+      "deal_type": "리스",
+      "lease_monthly": 291,
+      "lease_months": null
     },
     {
       "plate": "63나3757",
@@ -14733,7 +15786,10 @@
           "price": 25500,
           "source": "bobaedream"
         }
-      ]
+      ],
+      "deal_type": "현금",
+      "lease_monthly": null,
+      "lease_months": null
     }
   ],
   "options": [
